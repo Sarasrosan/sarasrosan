@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,5 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=sarasrosan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4c3e93,7c6baf,33a4c3,68c8be&theme=graywhite"/><br>
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarasrosan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,4c3e93,7c6baf,33a4c3&theme=graywhite"/> 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=sarasrosan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4c3e93,7c6baf,33a4c3,68c8be&theme=graywhite"/>
